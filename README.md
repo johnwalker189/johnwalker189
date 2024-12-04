@@ -1,6 +1,6 @@
 # Hi there, name's John, thank you for coming here to check my things out 👋
 
-I'm a third-year student in [Hanoi University of Science and Technology](https://hust.edu.vn/). I have just begun my path of learning to become a Web Pentester some months ago, but I'm trying my hardest to learn this stuff. I hope I will be able to do help people with this knowledge in the foreseeable future. 
+I'm a third-year student in [Hanoi University of Science and Technology](https://hust.edu.vn/). I have just begun my path of learning to become a Web Pentester some months ago, but I'm trying my hardest to learn this stuff. I hope I will be able to do help people with this knowledge in the foreseeable future.  
 
 
 ## 🌐 Socials:
